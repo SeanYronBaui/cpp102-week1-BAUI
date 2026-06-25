@@ -4,7 +4,7 @@ Course:CPP102 - Programming logic and Design
 
 Section:1CPE-B
 
-Week 1 Refelction:
+Week 1 Reflection:
 
 "Why do you think version control is important in programming?" 
 
